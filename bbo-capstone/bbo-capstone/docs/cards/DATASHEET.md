@@ -1,3 +1,8 @@
+> **Version:** Beta (Week 10 submission)
+> This is a preliminary version of the data sheet submitted at Week 10.
+> It will be updated with final round results by Week 13.
+
+---
 # BBO Capstone Project — Data Sheet
 
 > Framework: Gebru et al. (2021) *Datasheets for Datasets*
