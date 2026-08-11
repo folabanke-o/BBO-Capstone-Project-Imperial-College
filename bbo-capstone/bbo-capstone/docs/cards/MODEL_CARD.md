@@ -1,3 +1,6 @@
+> **Version:** Beta (Week 10 submission)
+> This is a preliminary version of the model card submitted at Week 10.
+> It will be updated with final round results by Week 13.
 # BBO Capstone Project — Model Card
 
 > Framework: Mitchell et al. (2019) *Model Cards for Model Reporting*
